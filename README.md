@@ -1,7 +1,7 @@
 # Fork – Native Git Client and Repository Manager for Mac
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/58322/m/fork-logo.png?v=1669640777" width="200" alt="Fork icon"/>
+  <img src="https://img.utdstc.com/icon/365/687/3656877aa0eb2d4a9c4744427f2d86d0ff2eeaf8e8e41ceca97d05401764be7f:200" width="200" alt="Fork icon"/>
 </p>
 
 <p align="center">
